@@ -1,0 +1,6 @@
+﻿  airseat.cpp
+C:\Users\paran\source\repos\Project1\Project1\airseat.cpp(9,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\paran\source\repos\Project1\Project1\airseat.cpp(17,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\paran\source\repos\Project1\Project1\airseat.cpp(66,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\paran\source\repos\Project1\Project1\airseat.cpp(102,26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Project1.vcxproj -> C:\Users\paran\source\repos\Project1\Debug\Project1.exe

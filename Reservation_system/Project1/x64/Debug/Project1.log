@@ -1,0 +1,28 @@
+﻿  Airplane.cpp
+  airseat.cpp
+C:\Users\paran\source\repos\Reservation_system\Project1\airseat.cpp(9,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\paran\source\repos\Reservation_system\Project1\airseat.cpp(16,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\paran\source\repos\Reservation_system\Project1\airseat.cpp(66,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\paran\source\repos\Reservation_system\Project1\airseat.cpp(95,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\paran\source\repos\Reservation_system\Project1\airseat.cpp(205,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  airtime.cpp
+  main.cpp
+  res_Seat.cpp
+C:\Users\paran\source\repos\Reservation_system\Project1\res_Seat.cpp(11,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\paran\source\repos\Reservation_system\Project1\res_Seat.cpp(13,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\paran\source\repos\Reservation_system\Project1\res_Seat.cpp(70,17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\paran\source\repos\Reservation_system\Project1\res_Seat.cpp(88,17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\paran\source\repos\Reservation_system\Project1\res_Seat.cpp(132,37): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\paran\source\repos\Reservation_system\Project1\res_Seat.cpp(140,17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\paran\source\repos\Reservation_system\Project1\res_Seat.cpp(160,17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\paran\source\repos\Reservation_system\Project1\res_Seat.cpp(173,17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\paran\source\repos\Reservation_system\Project1\res_Seat.cpp(195,37): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Restaurant.cpp
+  res_Time.cpp
+  Study.cpp
+  stu_Seat.cpp
+C:\Users\paran\source\repos\Reservation_system\Project1\stu_Seat.cpp(97,37): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  stu_Time.cpp
+  코드를 생성하고 있습니다...
+  Booking.cpp
+  Project1.vcxproj -> C:\Users\paran\source\repos\Reservation_system\x64\Debug\Reservation_system.exe
